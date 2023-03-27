@@ -1,0 +1,50 @@
+### C++ template
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Fortran module files
+*.mod
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Standard Build-Ordner
+build/
+
+# IntelliJ-Build-Ordner
+cmake-build-*/
+
+# IntelliJ
+.idea/
+/out/
+
+# vscode
+.vscode
+
+# SonarLint plugin
+.idea/sonarlint/
+
+# python virtuel env dir
+venv/
+
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
